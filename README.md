@@ -1,6 +1,6 @@
 # ルスイ的配布站点
 
-大家好，这里是ルスイ。我会在 Github Page 上配布 VSQx/UST/ppsf/svp 等工程文件。也会配布一些自己做的编曲（wav/flac 文件）。欢迎大家使用。
+大家好，这里是ルスイ。我会在 Github Page 上配布 VSQx/UST/ppsf/svp 等工程文件。也会配布一些自己做的编曲（mp3/aac 文件）。欢迎大家使用。
 
 ## 使用相关
 
@@ -18,7 +18,7 @@
 
 | 歌曲 | 原曲艺术家 | 编曲类型 | 比特率 | 采样率 | 下载链接 |
 | - | - | - | - | - | - |
-| 心拍数♯0822 | 蝶々P feat.初音ミクAppend | 扒谱（Mix by WTS） | | | |
+| 心拍数♯0822 | 蝶々P feat.初音ミクAppend | 扒谱（Mix by WTS） | 16bit | 44.1kHz| [心拍数0822_offvocal.mp3](https://github.com/suis-papiyon/Project_Files/raw/main/Arrangement/%E5%BF%83%E6%8B%8D%E6%95%B00822_offvocal.mp3) |
 
 ## 联系方式
 
