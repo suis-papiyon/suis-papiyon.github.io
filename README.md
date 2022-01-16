@@ -40,7 +40,7 @@
 
 | 网站名 | 网址  |
 | - | - |
-| Nico Mylist | 3290598660 |
+| Nico Mylist | https://sp.nicovideo.jp/mylist/71372764 |
 | YouTube Channel | https://www.youtube.com/channel/UCAz0tCmxP45yQ8mmZr61DSg |
 | Soundcloud | https://soundcloud.com/suis_papiyon |
 | Bandlab | https://bandlab.com/suis_papiyon |
