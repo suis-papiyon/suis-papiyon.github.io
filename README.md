@@ -21,13 +21,27 @@
 | 心拍数♯0822 | 蝶々P feat.初音ミクAppend | 扒谱（Mix by WTS） | | | |
 
 ## 联系方式
+
 可以通过以下方式联系到本人：
 
 | 网站名 | 网址  |
 | - | - |
-| bilibili | space.bilibili.com/696891919 |
-| Twitter | twitter.com/SuisPapiyon |
-| LOFTER Blog | suis-papiyon.lofter.com |
-| Zhihu | zhihu.com/people/suis-papiyon |
+| QQ | 3290598660 |
+| bilibili | https://space.bilibili.com/696891919 |
+| Twitter | https://twitter.com/SuisPapiyon |
+| LOFTER Blog | https://suis-papiyon.lofter.com |
+| Zhihu | https://zhihu.com/people/suis-papiyon |
 
 请勿通过网易云搜寻本人，Niconico、YouTube和pixiv等网站本人并不经常登录，因此不建议通过以上平台DM本人。另，我没有微博。
+
+## 上传作品的平台
+
+包括如下的平台，上述提到的网址不再赘述：
+
+| 网站名 | 网址  |
+| - | - |
+| Nico Mylist | 3290598660 |
+| YouTube Channel | https://www.youtube.com/channel/UCAz0tCmxP45yQ8mmZr61DSg |
+| Soundcloud | https://soundcloud.com/suis_papiyon |
+| Bandlab | https://bandlab.com/suis_papiyon |
+| Bandcamp | https://suispapiyon.bandcamp.com |
