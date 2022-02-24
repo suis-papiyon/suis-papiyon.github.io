@@ -28,7 +28,7 @@
 | - | - |
 | QQ | 3290598660 |
 | bilibili | https://space.bilibili.com/696891919 |
-| Twitter | https://twitter.com/SuisPapiyon |
+| Twitter | https://twitter.com/RuSuI_RSI |
 | LOFTER Blog | https://suis-papiyon.lofter.com |
 | Zhihu | https://zhihu.com/people/suis-papiyon |
 
