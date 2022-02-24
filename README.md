@@ -8,10 +8,10 @@
 
 ### VSQx文件（无参）
 
-| 歌曲 | 艺术家 | 下载链接 |
-| - | - | - |
-| Iris | Noz. feat.初音ミクDark | [Iris_VSQx.rar](https://github.com/suis-papiyon/Project_Files/raw/main/Vocal_Synth_Projects/Iris_VSQx.rar) |
-| （待添加） |  | |
+| 歌曲 | 艺术家 | 文件类型 | 下载链接 |
+| - | - | - | - |
+| Iris | Noz. feat.初音ミクDark | VSQx | [Iris_VSQx.rar](https://github.com/suis-papiyon/Project_Files/raw/main/Vocal_Synth_Projects/Iris_VSQx.rar) |
+| （待添加） |  |  |  |
 
 
 ### 编曲工程
