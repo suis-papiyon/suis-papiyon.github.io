@@ -10,7 +10,7 @@
 
 | 歌曲 | 艺术家 | 下载链接 |
 | - | - | - |
-| Iris | Noz. feat.初音ミクDark | Iris_VSQx[https://github.com/suis-papiyon/Project_Files/raw/main/Vocal_Synth_Projects/Iris_VSQx.rar] |
+| Iris | Noz. feat.初音ミクDark | [Iris_VSQx](https://github.com/suis-papiyon/Project_Files/raw/main/Vocal_Synth_Projects/Iris_VSQx.rar) |
 | （待添加） |  | |
 
 
