@@ -1,6 +1,6 @@
 # Reversus Citrus
 
-大家好，这里是ルスイ。我会在 Github Page 上配布 VSQx/UST/ppsf/svp 等工程文件。也会配布一些自己做的编曲（mp3/aac/flac 文件）。欢迎大家使用。
+大家好，这里是ルスイ。我会在 Github Page 上配布 VSQx/UST/ppsf/svp 等工程文件。也会配布一些自己做的编曲（mp3/aac/flac 文件）。欢迎大家使用。也可以在我的[文件堆放地（群号：205688767）](https://jq.qq.com/?_wv=1027&k=fXzho72z)的群文件里找到工程或伴奏使用。
 
 ## 使用相关
 
