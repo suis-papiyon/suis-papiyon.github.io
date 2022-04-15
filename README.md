@@ -31,19 +31,6 @@
 | QQ | 3290598660 |
 | bilibili | https://space.bilibili.com/696891919 |
 | Twitter | https://twitter.com/RuSuI_RSI |
-| LOFTER Blog | https://suis-papiyon.lofter.com |
-| Zhihu | https://zhihu.com/people/suis-papiyon |
+| Bandlab | https://bandlab.com/suis_papiyon |
 
 请勿通过网易云搜寻本人，Niconico、YouTube和pixiv等网站本人并不经常登录，因此不建议通过以上平台DM本人。另，我没有微博。
-
-## 上传作品的平台
-
-包括如下的平台，上述提到的网址不再赘述：
-
-| 网站名 | 网址  |
-| - | - |
-| Nico Mylist | https://sp.nicovideo.jp/mylist/71372764 |
-| YouTube Channel | https://www.youtube.com/channel/UCAz0tCmxP45yQ8mmZr61DSg |
-| Soundcloud | https://soundcloud.com/suis_papiyon |
-| Bandlab | https://bandlab.com/suis_papiyon |
-| Bandcamp | https://suispapiyon.bandcamp.com |
