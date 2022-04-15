@@ -20,7 +20,7 @@
 
 | 歌曲 | 原曲艺术家 | 编曲类型 | 比特率/采样率 | 下载链接 |
 | - | - | - | - | - |
-| 心拍数♯0822 | 蝶々P feat.初音ミクAppend | 扒谱（Stem Mix by WTS） | 24bit/48kHz(320kps) | [心拍数0822_offvocal_BPM118.mp3](https://github.com/suis-papiyon/Project_Files/blob/main/Arrangement/%E5%BF%83%E6%8B%8D%E6%95%B00822_offvocal_BPM118.mp3) |
+| 心拍数♯0822 | 蝶々P feat.初音ミクAppend | 扒谱（Stem Mix by WTS） | 24bit/48kHz(320kps) | [心拍数0822_offvocal_BPM118.mp3](https://raw.githubusercontent.com/suis-papiyon/Project_Files/main/Arrangement/%E5%BF%83%E6%8B%8D%E6%95%B00822_offvocal_BPM118.mp3) |
 
 ## 联系方式
 
