@@ -12,6 +12,7 @@
 | - | - | - | - |
 | Iris | Noz. feat.初音ミクDark | VSQx | [Iris_VSQx.rar](https://github.com/suis-papiyon/Project_Files/raw/main/Vocal_Synth_Projects/Iris_VSQx.rar) |
 | 渡月橋 ～君 想ふ～ | 倉木麻衣/徳永暁人/池田大介 | VSQx | [渡月桥_VSQx.rar](https://github.com/suis-papiyon/Project_Files/blob/main/Vocal_Synth_Projects/%E6%B8%A1%E6%9C%88%E6%A1%A5_VSQx.rar) |
+| まにまに | r-906 feat.初音ミク | VSQx | [まにまに_VSQx.rar](https://github.com/suis-papiyon/Project_Files/raw/main/Vocal_Syn6th_Projects/%E3%81%BE%E3%81%AB%E3%81%BE%E3%81%AB_VSQx.rar) |
 | カーニバル | otetsu feat.GUMI | VSQx | （待添加） |
 | かはたれのうた | 西島尊大 feat.初音ミク | VSQx | （待添加） |
 
@@ -32,5 +33,3 @@
 | bilibili | https://space.bilibili.com/696891919 |
 | Twitter | https://twitter.com/RuSuI_RSI |
 | Bandlab | https://bandlab.com/suis_papiyon |
-
-请勿通过网易云搜寻本人，Niconico、YouTube和pixiv等网站本人并不经常登录，因此不建议通过以上平台DM本人。另，我没有微博。
