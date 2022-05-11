@@ -1,10 +1,12 @@
-# Reversus Citrus
+# AmeFuru Hakoniwa
 
-大家好，这里是ルスイ。我会在 Github Page 上配布 VSQx/UST/ppsf/svp 等工程文件。也会配布一些自己做的编曲（mp3/aac/flac 文件）。欢迎大家使用。也可以在我的[文件堆放地（群号：205688767）](https://jq.qq.com/?_wv=1027&k=fXzho72z)的群文件里找到工程或伴奏使用。
+大家好，这里是RSI。我会在 Github Page 上配布 VSQx 等工程文件。也会配布一些自己做的编曲，欢迎大家使用。也可以在我的[文件堆放地（群号：205688767）](https://jq.qq.com/?_wv=1027&k=fXzho72z)的群文件里找到工程或伴奏使用。
 
-## 使用相关
+## 使用相关规约
 
-在使用我所制作的相关工程时，请在 Staff 一栏标注采用了本人的工程，谢谢合作。在用作比较具有争议性的话题/作品时，请务必和本人协商沟通，在征得本人同意后方可采用，否则当作不予授权处理，谢谢大家的理解与支持！
+1. 请在你所发表的视频 Credit 栏标注我的名义（ルスイ）;
+2. 我所制作的工程文件禁止直接的二次配布，如果你想要利用我的工程制作改编文件（例如再填词）并二配，请事先私信询问沟通；
+3. 当涉及政治/宗教/他人名誉等具有争议的事件时，请与我私信沟通，以备万一。
 
 ### 合成音声工程文件（无参）
 
@@ -31,5 +33,5 @@
 | - | - |
 | QQ | 3290598660 |
 | bilibili | https://space.bilibili.com/696891919 |
-| Twitter | https://twitter.com/RuSuI_RSI |
-| Bandlab | https://bandlab.com/suis_papiyon |
+| Twitter（JA） | https://twitter.com/RuSuI_RSI |
+| Twitter（ZH） | https://twitter.com/suis_papiyon |
